@@ -4,4 +4,4 @@ Criaremos uma aplicação web chamada Learning Log que permite aos usuários reg
 
 
 #Projeto retirado do livro:
-Matthes, Eric. Curso Intensivo de Python (p. 578). Novatec Editora. Edição do Kindle. 
+Matthes, Eric. Curso Intensivo de Python . Novatec Editora. Edição do Kindle. 
